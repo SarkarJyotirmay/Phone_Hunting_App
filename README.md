@@ -1,4 +1,4 @@
-[hosted link]()
+[hosted link](https://phone-hunting-app-one.vercel.app/)
 
 ## Approach :- 
 Created the UI first then used API given to fetch data using JS.
